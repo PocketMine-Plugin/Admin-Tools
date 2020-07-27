@@ -1,0 +1,5 @@
+name: Report
+version: 1.0.2
+author: ZacHack
+main: ReportPlayer\Report
+api: 3.14.0
